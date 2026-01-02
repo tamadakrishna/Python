@@ -5,11 +5,12 @@ PYTHON
 ├── lessons/
 │   ├── 📁 01_Intro/
 │   │   ├── 📄 README.md
-│   │   └── 🐍 hello_world.py
+│   │   └── 🐍 01_Welcome.py
+|   |   └── 🐍 02_Comments.py
 │   │
 │   ├── 02_Variables/
 │   │   ├── 📄 README.md
-│   │   └── 🐍 variables.py
+│   │   └── 🐍 Variables.py
 │   │
 │   ├── 03_Conditions/
 │   │   ├── 📄 README.md
@@ -28,6 +29,6 @@ PYTHON
     ├── 02_loops_exercises.py
     └── Solutions/
         ├── 01_variables_solutions.py
-        └── 02_loops_solutions.py
+ 
 
 ```
