@@ -13,7 +13,7 @@ Python has these main built-in data structures
 - Ordered → keeps the order of elements
 - Mutable → can add, remove, or modify items
 - Can contain mixed data types
-
+Refer 01_List_Type.py
 
 ## 2. Tuple
 - Ordered → keeps the order
