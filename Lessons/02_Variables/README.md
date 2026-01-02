@@ -1,9 +1,9 @@
-# VARIABLE 
--> variables in Python are used to store data values.
+# Variables 
+variables in Python are used to store data values.
 
 # In Python, you don’t need to declare a type. You just assign a value using =
 
-Example
+### Example
 
 name = "Krishna"    # stores a string
 age = 22            # stores an integer
@@ -32,22 +32,22 @@ Refer 01_Variables.py
 
 
 # Multiple assignments
--> Python allows you to assign multiple variables in one line:
+Python allows you to assign multiple variables in one line:
 Refer 01_Variables.py
 
 
 # Dynamic typing
--> Python variables change type automatically if you assign a different type
+Python variables change type automatically if you assign a different type
 Refer 01_Variables.py
 
 
 # Type Checking
--> In Python, you can check the type of a variable using the type() function.
+In Python, you can check the type of a variable using the type() function.
 Refer 02_Type_Checking.py
 
 
 # Type Conversion (Casting)
--> conversion one type to another is called type casting.
+conversion one type to another is called type casting.
 
 | Function  | Converts to | Example                         |
 | --------- | ----------- | ------------------------------- |

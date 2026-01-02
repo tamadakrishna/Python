@@ -26,7 +26,6 @@ PYTHON
 │
 ├── Exercises/
     ├── 01_variables_exercises.py
-    ├── 02_loops_exercises.py
     └── Solutions/
         ├── 01_variables_solutions.py
  
