@@ -26,7 +26,7 @@ name, age, height, is_student → variables
 
 
 # Reassigning variables
--> You can change the value stored in a variable anytime:
+You can change the value stored in a variable anytime:
 Refer 01_Variables.py
 
 
