@@ -1,4 +1,5 @@
-```PYTHON
+```
+PYTHON
 │
 │
 ├── lessons/
@@ -29,4 +30,4 @@
         ├── 01_variables_solutions.py
         └── 02_loops_solutions.py
 
-``
+```
