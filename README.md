@@ -24,9 +24,9 @@ PYTHON
 │       ├── 📄 README.md
 │       └── functions.py
 │
-├── Exercises/
+├── 🧪 Exercises/
     ├── 01_variables_exercises.py
-    └── Solutions/
+    └── ✅ Solutions/
         ├── 01_variables_solutions.py
  
 
