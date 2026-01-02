@@ -12,17 +12,20 @@ PYTHON
 │   │   ├── 📄 README.md
 │   │   └── 🐍 Variables.py
 │   │
-│   ├── 03_Conditions/
+│   ├── 03_Data_Types/
 │   │   ├── 📄 README.md
-│   │   └── 🐍 if_else.py
+│   │   └── 🐍 01_Data_Types.py
 │   │
-│   ├── 04_Loops/
+│   ├── 04_Operators/
 │   │   ├── 📄 README.md
-│   │   └── 🐍 loops.py
+│   │   └── 🐍 01_Operators.py
 │   │
-│   └── 05_Functions/
+│   └── 05_Data_Structures/
 │       ├── 📄 README.md
-│       └── functions.py
+│       └── 01_List_Type.py
+|       └── 02_Tuple_Type.py
+|       └── 03_Set_Type.py
+|       └── 04_Dictionary.py
 │
 ├── 🧪 Exercises/
     ├── 01_variables_exercises.py
