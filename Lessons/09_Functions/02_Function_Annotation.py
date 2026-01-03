@@ -34,11 +34,15 @@ greet()
 greet("Krishna")
 
 
+
+
 # Annotations with *args
 def total(*numbers: int) -> int:
     return sum(numbers)
 
 print(total(1, 2, 3))
+
+
 
 
 # Annotations with **kwargs
@@ -49,6 +53,9 @@ def profile(**info: str) -> None:
 profile(name="Krishna", city="Visakhapatnam")
 
 
+
+
+
 # Accessing Annotations
 # Python stores annotations in a dictionary:
 def add(a: int, b: int) -> int:
@@ -56,7 +63,7 @@ def add(a: int, b: int) -> int:
 
 print(add.__annotations__)
 
-# {'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
+# Output: {'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
 
 
 
