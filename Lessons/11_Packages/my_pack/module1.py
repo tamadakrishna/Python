@@ -1,0 +1,2 @@
+def Apply():
+    print("Applied!")

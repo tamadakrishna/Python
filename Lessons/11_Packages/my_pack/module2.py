@@ -1,0 +1,2 @@
+def Result():
+    print("Selected!")
