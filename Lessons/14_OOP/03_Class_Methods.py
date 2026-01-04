@@ -24,7 +24,13 @@ class Student:
 
 # Creating an object of the Student class
 student1 = Student("Krishna", 20) 
-student1.display_info()  # Calling the instance method to display info
-print(f"School Name: {Student.get_school_name()}")  # Calling the class method
-print(f"Is student adult? {'Yes' if Student.is_adult(student1.age) else 'No'}")  # Calling the static method
+
+# Calling the instance method to display info
+student1.display_info()  
+
+# Calling the class method
+print(f"School Name: {Student.get_school_name()}")  
+
+# Calling the static method
+print(f"Is student adult? {'Yes' if Student.is_adult(student1.age) else 'No'}")  
 
