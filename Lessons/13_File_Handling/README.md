@@ -24,6 +24,7 @@
 | `readlines()` | Reads all lines    |
 | `close()`     | Closes file        |
 
+## File Handling Exceptions
 
 | Exception              | Cause                                          |
 | ---------------------- | ---------------------------------------------- |
